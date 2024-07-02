@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./output.css" rel="stylesheet">
+</head>
+<body>
+    <div class="bg-white main-block h-screen flex flex-col">
+        <header class="shadow-sm bg-white-100">
+            <div class="max-w-[1240px] flex items-center gap-4 justify-between py-4 sm:py-5 px-4 mx-auto">
+                <picture>
+                    <source media="(min-width: 640px)" srcset="./img/logo.svg" type="image/svg+xml">
+                    <img src="./img/logo-mobile.svg" alt="Logo">
+                </picture>
+                <button class="duration-300 transition-all hover:bg-primary-400 px-6 sm:px-10 py-2.5 rounded-[56px] shadow-buttonShadow text-white-100 bg-primary-500 text-lg text-center font-bold  leading-[1.11]">
+                    Sign in
+                </button>
+            </div>
+        </header>
+        <main class="max-w-[714px] basis-full px-4 flex items-center justify-center mx-auto">
+            <div class="flex flex-col mt-32 gap-2.5 text-center items-center">
+                <p class="uppercase text-primary-500 text-base sm:text-lg font-bold ">All in One Sales Research</p>
+                <h1 class="text-3xl sm:text-4xl md:text-[50px] font-bold leading-tight text-dark-500">AI-Powered Research for Sales Excellence</h1>
+                <div class="text-base sm:text-lg font-normal leading-relaxed text-violet-500">
+                    Effortlessly boost your Inbound and Outbound <br/> Campaigns with <span class="text-primary-500">Pinnacly</span>
+                </div>
+                <form class="w-full">
+                    <div class="relative w-full mb-2.5 flex flex-col gap-2.5 md:inline-block">
+                        <input class="px-6 md:pr-60 focus:border-primary-500 focus:outline-none py-3 md:py-5 border text-violet-500 text-lg font-normal w-full border-solid rounded-full bg-white-100 border-[#EFF0F6] shadow-inputShadow" id="email" name="email" required type="email" placeholder="Business Email">
+                        <button class="duration-300 transition-all h-[54px] md:h-auto items-center text-center flex justify-center hover:bg-primary-400 text-white-100 md:absolute md:right-[14px] md:top-[50%] md:translate-y-[-50%] flex font-bold leading-[1.11] text-lg  py-[14px] px-10 bg-primary-500 rounded-full" type="submit">Request Demo</button>
+                    </div>
+                    <div class="text-sm   text-violet-500 text-center font-normal">By submitting this form, you are agreeing to Pinnacly’s Privacy Policy and Terms of Service.</div>
+                </form>
+            </div>
+           
+        </main>
+        
+    </div>
+</body>
+</html>

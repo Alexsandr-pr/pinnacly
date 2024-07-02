@@ -1,0 +1,39 @@
+
+<svg width="1440" height="250" viewBox="0 0 1440 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path class="animate-path path-1" d="M5.3134 168.76C-24.8234 168.76 -88.1192 227.587 -116 257L375 256.361C336.052 212.24 247.046 124 202.607 124C147.059 124 135.566 199.452 94.7022 199.452C53.8388 199.452 42.9844 168.76 5.3134 168.76Z" fill="#1D1233">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-2" d="M595.313 168.76C565.177 168.76 501.881 227.587 474 257L965 256.361C926.052 212.24 837.046 124 792.607 124C737.059 124 725.566 199.452 684.702 199.452C643.839 199.452 632.984 168.76 595.313 168.76Z" fill="#1D1233">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-3" d="M1198.31 167.76C1168.18 167.76 1104.88 226.587 1077 256L1568 255.361C1529.05 211.24 1440.05 123 1395.61 123C1340.06 123 1328.57 198.452 1287.7 198.452C1246.84 198.452 1235.98 167.76 1198.31 167.76Z" fill="#1D1233">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-4" d="M-129.609 212.95C-147.302 236.668 -177.291 250.54 -193.612 255.723H445C320.363 186.776 393.867 1.00016 289.683 1C204.035 0.999872 219.375 168.9 156.737 211.673C128.613 233.379 89.6242 196.352 57.0268 201.459C24.4294 206.566 20.5944 228.91 -6.2505 228.91C-15.1988 228.91 -19.0338 192.521 -20.9513 184.222C-22.8688 175.923 -31.8171 140.172 -63.7754 140.172C-95.7336 140.172 -105.321 180.392 -129.609 212.95Z" fill="#2620F6">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-5" d="M460.391 212.95C442.698 236.668 412.709 250.54 396.388 255.723H1035C910.363 186.776 983.867 1.00016 879.683 1C794.035 0.999872 809.375 168.9 746.737 211.673C718.613 233.379 679.624 196.352 647.027 201.459C614.429 206.566 610.594 228.91 583.749 228.91C574.801 228.91 570.966 192.521 569.049 184.222C567.131 175.923 558.183 140.172 526.225 140.172C494.266 140.172 484.679 180.392 460.391 212.95Z" fill="#2620F6">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-6" d="M1062.39 211.95C1044.7 235.668 1014.71 249.54 998.388 254.723H1637C1512.36 185.776 1585.87 0.00015586 1481.68 0C1396.03 -0.000128131 1411.37 167.9 1348.74 210.673C1320.61 232.379 1281.62 195.352 1249.03 200.459C1216.43 205.566 1212.59 227.91 1185.75 227.91C1176.8 227.91 1172.97 191.521 1171.05 183.222C1169.13 174.923 1160.18 139.172 1128.22 139.172C1096.27 139.172 1086.68 179.392 1062.39 211.95Z" fill="#2620F6">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-7" d="M-131.703 227.201C-135.786 237.441 -163.602 252.587 -177 256H431C392.083 243.84 367.839 195.841 356.356 172.801C344.872 149.761 312.973 129.921 295.109 147.841C277.246 165.761 275.332 180.481 268.952 209.921C262.572 239.361 248.536 231.681 242.794 227.201C237.052 222.721 218.551 200.961 186.014 202.241C153.476 203.521 115.835 247.041 85.8499 236.801C55.8646 226.561 62.2445 200.961 32.8971 120.961C3.54982 40.9608 -41.7471 36.4808 -73.6464 61.4408C-105.546 86.4008 -126.599 214.401 -131.703 227.201Z" stroke="#1D1233" stroke-width="2">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-8" d="M458.297 227.201C454.214 237.441 426.398 252.587 413 256H1021C982.083 243.84 957.839 195.841 946.356 172.801C934.872 149.761 902.973 129.921 885.109 147.841C867.246 165.761 865.332 180.481 858.952 209.921C852.572 239.361 838.536 231.681 832.794 227.201C827.052 222.721 808.551 200.961 776.014 202.241C743.476 203.521 705.835 247.041 675.85 236.801C645.865 226.561 652.244 200.961 622.897 120.961C593.55 40.9608 548.253 36.4808 516.354 61.4408C484.454 86.4008 463.401 214.401 458.297 227.201Z" stroke="#1D1233" stroke-width="2">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+  <path class="animate-path path-9" d="M1060.37 226.201C1056.28 236.441 1028.42 251.587 1015 255H1624C1585.02 242.84 1560.74 194.841 1549.23 171.801C1537.73 148.761 1505.78 128.921 1487.89 146.841C1469.99 164.761 1468.08 179.481 1461.69 208.921C1455.29 238.361 1441.24 230.681 1435.48 226.201C1429.73 221.721 1411.2 199.961 1378.61 201.241C1346.02 202.521 1308.32 246.041 1278.28 235.801C1248.25 225.561 1254.64 199.961 1225.24 119.961C1195.85 39.9608 1150.48 35.4808 1118.52 60.4408C1086.57 85.4008 1065.48 213.401 1060.37 226.201Z" stroke="#1D1233" stroke-width="2">
+    <animateTransform attributeName="transform" type="translate" from="0 100" to="0 0" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+  </path>
+</svg>
