@@ -7,7 +7,7 @@
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>
-    <div class="bg-white main-block h-screen flex flex-col">
+    <div class="bg-white element main-block h-screen flex flex-col">
         <header class="shadow-sm bg-white-100">
             <div class="max-w-[1240px] flex items-center gap-4 justify-between py-4 sm:py-5 px-4 mx-auto">
                 <picture>
@@ -38,5 +38,8 @@
         </main>
         
     </div>
+    <script>
+        document.querySelector('.element').style.backgroundImage = `url('./img/bg.svg?v=${new Date().getTime()}')`;
+    </script>
 </body>
 </html>
